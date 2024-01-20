@@ -22,8 +22,7 @@ MIRO:https://miro.com/app/board/uXjVNcdM3P8=/?share_link_id=543374060578
 # members
 土居亮斗<br>
 赤田真由<br>
-三浦隼←Scrum master<br>
-柴尾直紀<br>
+三浦隼<br>
 関拓己<br>
-大作春輝←Product Owner<br>
+大作春輝<br>
 山岨寛門<br>
